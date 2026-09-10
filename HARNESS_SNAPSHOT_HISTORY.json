@@ -13,6 +13,13 @@
       "tree_sha256": "930e20552b41a0cc948c4ccf93c56b7c012fc4a6caae29b8b1458318c133c367",
       "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
       "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1"
+    },
+    {
+      "harness_snapshot_sha256": "26e3204314f5ff4b8130977497ffdae8902d0e289b85795c4bd98cd5f18d7b94",
+      "harness_version": "1.2.6",
+      "tree_sha256": "7d918626d78a976578c85a11fe66d2b30a5a62c9578b519aea767cf0a810cf68",
+      "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1"
     }
   ],
   "repository": "vibemathing/problem-secp256k1-ecdlog-polytime",
